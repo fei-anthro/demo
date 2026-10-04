@@ -16,12 +16,12 @@
   "project": {
     "github_org": "fei-anthro",
     "is_private": false,
-    "title": ".",
-    "description": ".",
+    "title": "Framing play",
+    "description": "My project examines embodied communication during underwater encounters between humans and sea lions Baja California, Mexico. California sea lions are known as one of the most “playful” and “curious” animals. Anthropologists have long-standing interests in both human and animal communication. While speech does the lion's share of human communication, but it isn't just the spoken word that matters. I am asking how bodies coordinate across species in an under-water environment where ordinary forms of communication, such as sound, touch, and gestures are all constrained. ",
     "language": "en",
     "slug": "demo",
     "creator": "fei-anthro",
-    "authors": "",
+    "authors": "Fei",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
@@ -30,7 +30,7 @@
       "tags": []
     },
     "created_at": "2026-10-02T16:42:26.697Z",
-    "updated_at": "2026-10-02T16:42:26.697Z",
+    "updated_at": "2026-10-04T20:58:17.365Z",
     "generate_pages_site": true
   },
   "annotations": {},
