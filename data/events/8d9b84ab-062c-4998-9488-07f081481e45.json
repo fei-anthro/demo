@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "3c13c0d1-df00-4886-a828-b60acc25418e": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ia801806.us.archive.org/7/items/vid-20260520-131326-119/VID_20260520_131326_119.MP4",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "Video taken by Fei Liao (project creator) on May 18th, 2026 at Baja Mexico, with Freediving Academy",
+  "label": "Sealion; play",
+  "av_file_order": [
+    "3c13c0d1-df00-4886-a828-b60acc25418e"
+  ],
+  "created_at": "2026-11-02T20:25:40.136Z",
+  "created_by": "fei-anthro",
+  "updated_at": "2026-11-02T20:25:40.136Z",
+  "updated_by": "fei-anthro"
+}
