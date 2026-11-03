@@ -4,6 +4,91 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "What is play? What does play do for us?",
+          "textSize": "heading-one"
+        },
+        {
+          "text": "From childhood make-believe and theatre to sports and market speculation, play takes many forms for humans: it offers entertainment and leisure while giving people a way to explore the world and its possibilities through imagined or constructed settings. Play serves as a fundamental mechanism for human learning, cultural expression, and social-bond formulating across our lifespans. Play can involve many participants. We play with objects, with our thoughts, with fellow humans--strangers, friends, and loved-ones, and with other life forms. "
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "There are many theories of play. What we Play is exactly a useful category of analysis, precisely because it’s hard to pin down. There is no specific, "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In animals, it often looks like a familiar action—chasing, wrestling, pouncing, handling an object—but performed in a way that is relaxed, voluntary, varied, and not serving its usual immediate purpose. Gordon Burghardt’s widely used criteria are a good starting point, especially his emphasis on the animal’s condition and the behavior’s context. They help distinguish play from fighting, practice, or repetitive behavior, while leaving room for uncertainty about what an animal is experiencing"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Looking at Play through a Multi-species lens ",
+          "textSize": "heading-one"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -11,11 +96,12 @@
   ],
   "created_at": "2026-10-02T16:42:26.714Z",
   "created_by": "fei-anthro",
-  "title": ".",
-  "updated_at": "2026-11-03T19:43:54.840Z",
+  "title": "Multi-species Play: Sea-lion interactions in La Ventana, Baja, Mexico",
+  "updated_at": "2026-11-03T20:00:39.994Z",
   "updated_by": "fei-anthro",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "slug": "multi-species-play-sea-lion-interactions-in"
 }
