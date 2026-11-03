@@ -1,0 +1,33 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What is play? What does play do for us?",
+          "textSize": "heading-one"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "From childhood make-believe and theater to sports and market speculation, play takes many forms: it offers entertainment and leisure while giving people a way to explore the world and its possibilities through imagined or constructed settings."
+        }
+      ]
+    }
+  ],
+  "title": "What is play? What does play do? ",
+  "parent": "c32ed41c-49cc-4773-b086-6d3884b75885",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "what-is-play-what-does-play-do",
+  "created_at": "2026-11-03T19:22:35.289Z",
+  "created_by": "fei-anthro",
+  "updated_at": "2026-11-03T19:22:35.289Z",
+  "updated_by": "fei-anthro"
+}
