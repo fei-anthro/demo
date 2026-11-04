@@ -21,7 +21,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "We play with objects and ideas, with friends, loved ones, and strangers. We play alone, together, and sometimes across species. Play is often described as practice—a way to develop physical skills, learn social cues, or meet the unexpected in a relatively safe setting. These ideas provide a function oriented understanding towards play and help explain what play might do. Howeverm they don’t tell us much how play happens: how do participants recognize an invitation, respond to one another, and keep an interaction going?"
+          "text": "We play with real objects and abstract ideas, with friends, loved ones, and strangers. We play alone, together, and sometimes across species. Play is often described as practice—a way to develop physical skills, learn social cues, or meet the unexpected in a relatively safe setting. These ideas offer a functionalist understandings of play. However they do little in showing us, how does play actually happen? "
         }
       ]
     },
@@ -29,7 +29,7 @@
       "type": "heading-two",
       "children": [
         {
-          "text": "The ambiguity of play and playfulness",
+          "text": "The ambiguity of play",
           "textSize": "heading-one"
         }
       ]
@@ -38,54 +38,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "There is a certain ambiguity to play. “Play” is a useful idea partly because it is hard to pin down. No single activity is always play. Chasing can be a game, a hunt, or an attempt to escape. Wrestling can be play or a serious fight. Many of us have experienced teasing and being teased with funny \"insults\" with friends where everyone is having a good time. The same action can mean different things depending on who is doing it, what came before, and how the other participants read each other. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The anthropologist Gregory Bateson offered a way to think about this uncertainty. Watching monkeys play, he noticed that a playful nip could resemble a real bite. What made it different was a signal—sometimes subtle—that the action belonged to another kind of interaction. Bateson described this as \"a message about the message\": in effect, "
+          "text": "“Play” is a useful idea partly because it is hard to pin down. No single activity is always play. Chasing can be a game, a hunt, or an attempt to escape. Wrestling can be play or a serious fight. Many of us have had the experience where we genuinely find a friendly tease that can be an insult otherwise funny. The same action can mean different things depending on who is doing it, what came before, and how the other participants respond. Biologist and anthropologist Gregory Bateson offers a way to think about this uncertainty. Watching monkeys play, he noticed that a playful nip could resemble a real bite in every way, yet participants of play would \"just know\". What made it different was signals -- often subtle ones -- that the action belonged to another kind of interaction. Bateson described this as a message about the message: in effect, "
         },
         {
           "text": "“This is play.”",
           "bold": true
         },
         {
-          "text": " The participants were helping frame how their actions should be understood. Bateson calls this frame shift. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "That frame is not always announced in a clear or separate signal. It can emerge through timing, repetition, gesture, sound, and response. One participant makes an invitation; another accepts, ignores, or changes it. The play continues as the participants adjust to each other. In this sense, play is not just a thing an individual does. It is something participants make together."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": " The participants were not only acting; they were helping frame how their actions should be understood. That frame is not always announced in a clear or separate signal. It can emerge through timing, repetition, gesture, sound, and response. One participant makes an invitation; another accepts, ignores, or changes it. The play continues as the participants adjust to each other. In this sense, play is not just a thing an individual does. It is something participants make together."
         }
       ]
     },
@@ -118,7 +78,8 @@
       "type": "heading-two",
       "children": [
         {
-          "text": "Play in the ocean"
+          "text": "Play in the ocean",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -186,6 +147,15 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This project begins with play as an open question: how do animals invite, answer, and reshape one another’s actions? By looking across species—and especially toward ocean mammals—we can ask what play makes possible between lives that are connected, yet never quite the same."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -194,7 +164,53 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project begins with play as an open question: how do animals invite, answer, and reshape one another’s actions? By looking across species—and especially toward ocean mammals—we can ask what play makes possible between lives that are connected, yet never quite the same."
+          "textSize": "heading-one",
+          "text": "Gregory Bateson on Play"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
         }
       ]
     },
@@ -210,7 +226,7 @@
   "created_at": "2026-10-02T16:42:26.714Z",
   "created_by": "fei-anthro",
   "title": "Multi-species Play: Sea lion interactions in La Ventana, Mexico",
-  "updated_at": "2026-11-04T18:45:19.519Z",
+  "updated_at": "2026-11-04T19:09:51.740Z",
   "updated_by": "fei-anthro",
   "autogenerate": {
     "enabled": false,
