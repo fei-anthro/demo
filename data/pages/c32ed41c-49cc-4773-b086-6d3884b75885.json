@@ -1,10 +1,10 @@
 {
   "content": [
     {
-      "type": "paragraph",
+      "type": "heading-one",
       "children": [
         {
-          "text": "What is play? What does it do for us?  ",
+          "text": "What Is Play? How Does Play Happen?",
           "textSize": "heading-one"
         }
       ]
@@ -13,7 +13,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "From childhood make-believe and theatre to sports and market speculation, play takes many forms: it offers entertainment and leisure while giving people a way to explore the world and its possibilities through imagined or constructed settings. It is a fundamental aspect of how we interact with the world. Play can have many participants. Play can involve many participants. We play with objects, with our thoughts, with fellow humans--friends, loved ones, and strangers. We also play with other life forms. There are many theories of play. Play is often described as practice: a way to develop physical skills, learn social cues, or encounter the unexpected in a relatively safe setting. These explanations offer a functional reading of play, but they don’t settle the question of how do we play? "
+          "text": "From childhood make-believe and theatre to sports and market speculation, play takes many forms. It can entertain and offer a break from everyday routines. It can also give us a way to explore possibilities: we try out roles, test limits, follow rules, bend them, or imagine a different world for a while."
         }
       ]
     },
@@ -21,15 +21,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "We play with objects and ideas, with friends, loved ones, and strangers. We play alone, together, and sometimes across species. Play is often described as practice—a way to develop physical skills, learn social cues, or meet the unexpected in a relatively safe setting. These ideas provide a function oriented understanding towards play and help explain what play might do. Howeverm they don’t tell us much how play happens: how do participants recognize an invitation, respond to one another, and keep an interaction going?"
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading-two",
       "children": [
         {
-          "text": "The ambiguity of play",
+          "text": "The ambiguity of play and playfulness",
           "textSize": "heading-one"
         }
       ]
@@ -38,7 +38,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "There is a certain ambiguity to play. “Play” is a useful analytical category, precisely because it’s hard to pin down. There is no specific. Play vary so much in the human world. "
+          "text": "There is a certain ambiguity to play. “Play” is a useful idea partly because it is hard to pin down. No single activity is always play. Chasing can be a game, a hunt, or an attempt to escape. Wrestling can be play or a serious fight. Many of us have experienced teasing and being teased with funny \"insults\" with friends where everyone is having a good time. The same action can mean different things depending on who is doing it, what came before, and how the other participants read each other. "
         }
       ]
     },
@@ -54,7 +54,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " In animals, it often looks like a familiar action—chasing, wrestling, pouncing, handling an object—but performed in a way that is relaxed, voluntary, varied, and not serving its usual immediate purpose. "
+          "text": "The anthropologist Gregory Bateson offered a way to think about this uncertainty. Watching monkeys play, he noticed that a playful nip could resemble a real bite. What made it different was a signal—sometimes subtle—that the action belonged to another kind of interaction. Bateson described this as \"a message about the message\": in effect, "
+        },
+        {
+          "text": "“This is play.”",
+          "bold": true
+        },
+        {
+          "text": " The participants were helping frame how their actions should be understood. Bateson calls this frame shift. "
         }
       ]
     },
@@ -62,7 +69,14 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
+          "text": "That frame is not always announced in a clear or separate signal. It can emerge through timing, repetition, gesture, sound, and response. One participant makes an invitation; another accepts, ignores, or changes it. The play continues as the participants adjust to each other. In this sense, play is not just a thing an individual does. It is something participants make together."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -71,8 +85,16 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
-          "text": "Gregory Bateson on Play"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Looking at play through a multi-species lens",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -80,7 +102,54 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
+          "text": "Play is widespread among mammals, but it does not look the same everywhere. A young animal may chase, tumble, or spar with a companion; another may manipulate an object or repeat a movement alone. Researchers study play in many species to ask what it makes possible: practice, learning, flexibility, social connection, or simply an enjoyable activity in the present. There may be no single answer that applies to every animal or every kind of play."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A multispecies perspective starts with a further question: what happens when play crosses a species boundary? How do different animals recognize and respond to one another? Who sets the pace? How do they manage differences in size, strength, or ways of sensing the world? These questions let us study play as a relationship unfolding between particular participants, rather than assuming that all participants understand it in the same way."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Play in the ocean"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Marine mammals offer a compelling place to explore these questions. Dolphins and whales have been observed playing with objects, riding waves, chasing, and interacting with members of other species. Cetacean play has been grouped into locomotor, object, and social play, though the categories can overlap. Reports of dolphins interacting playfully with large whales raise questions about how we identify play when the participants are so different in size and behavior—and when we can observe only part of what is happening. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3758/s13420-017-0291-0",
+          "children": [
+            {
+              "text": "Hill, Dietrich & Cappiello’s review of cetacean play"
+            }
+          ]
+        },
+        {
+          "text": " · "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1016/j.neubiorev.2023.105232",
+          "children": [
+            {
+              "text": "Brooks & Burghardt’s review of interspecific play"
+            }
+          ]
+        },
+        {
           "text": ""
         }
       ]
@@ -89,8 +158,7 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
-          "text": "Multispecies Play "
+          "text": "The idea that marine mammals are “closest to us” can be a useful historical entry point, but it risks making human similarity the measure of their significance. Dolphins and whales have their own forms of social life, communication, and sensory experience. Their play may give us a way to encounter those differences as well as the points of connection."
         }
       ]
     },
@@ -98,7 +166,18 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
+          "text": "John C. Lilly’s mid-twentieth-century efforts to communicate with dolphins helped shape popular ideas about cetacean intelligence and interspecies communication. His work is part of the history of how people came to imagine dolphins as possible communicative partners, but its claims and methods need to be understood in their historical context. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.7208/chicago/9780226831350.003.0002",
+          "children": [
+            {
+              "text": "Gavin Steingo on Lilly and interspecies communication"
+            }
+          ]
+        },
+        {
           "text": ""
         }
       ]
@@ -107,7 +186,6 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
           "text": ""
         }
       ]
@@ -116,8 +194,7 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
-          "text": ""
+          "text": "This project begins with play as an open question: how do animals invite, answer, and reshape one another’s actions? By looking across species—and especially toward ocean mammals—we can ask what play makes possible between lives that are connected, yet never quite the same."
         }
       ]
     },
@@ -133,7 +210,7 @@
   "created_at": "2026-10-02T16:42:26.714Z",
   "created_by": "fei-anthro",
   "title": "Multi-species Play: Sea lion interactions in La Ventana, Mexico",
-  "updated_at": "2026-11-03T22:14:11.645Z",
+  "updated_at": "2026-11-04T18:45:19.519Z",
   "updated_by": "fei-anthro",
   "autogenerate": {
     "enabled": false,
