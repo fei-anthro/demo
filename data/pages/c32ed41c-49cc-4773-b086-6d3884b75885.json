@@ -38,14 +38,30 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "“Play” is a useful idea partly because it is hard to pin down. No single activity is always play. Chasing can be a game, a hunt, or an attempt to escape. Wrestling can be play or a serious fight. Many of us have had the experience where we genuinely find a friendly tease that can be an insult otherwise funny. The same action can mean different things depending on who is doing it, what came before, and how the other participants respond. Biologist and anthropologist Gregory Bateson offers a way to think about this uncertainty. Watching monkeys play, he noticed that a playful nip could resemble a real bite in every way, yet participants of play would \"just know\". What made it different was signals -- often subtle ones -- that the action belonged to another kind of interaction. Bateson described this as a message about the message: in effect, "
+          "text": "“Play” is a useful idea partly because it is hard to pin down. No single activity is always play. Chasing can be a game, a hunt, or an attempt to escape. Wrestling can be play or a serious fight. Many of us have had the experience where we genuinely find a friendly tease that can be an insult otherwise funny. The same action can mean different things depending on who is doing it, what came before, and how the other participants respond. "
         },
         {
-          "text": "“This is play.”",
-          "bold": true
+          "text": "Biologist and anthropologist Gregory Bateson offers a way to think about this uncertainty",
+          "link": "https://www.greyroom.org/media/files/grey66_pp110-114_batesonkees_final.pdf"
         },
         {
-          "text": " The participants were not only acting; they were helping frame how their actions should be understood. That frame is not always announced in a clear or separate signal. It can emerge through timing, repetition, gesture, sound, and response. One participant makes an invitation; another accepts, ignores, or changes it. The play continues as the participants adjust to each other. In this sense, play is not just a thing an individual does. It is something participants make together."
+          "text": ". Watching monkeys play, he noticed that a playful nip could resemble a real bite in every way, yet participants of play would \"just know\". What made it different was signals -- often subtle ones -- that the action belonged to another kind of interaction. Bateson described this as a message about the message: in effect, “This is play.” The participants were not only acting; they were helping frame how their actions should be understood. That frame is not always announced in a clear or separate signal. It can emerge through timing, repetition, gesture, sound, and response. One participant makes an invitation; another accepts, ignores, or changes it. The play continues as the participants adjust to each other. In this sense, play is not just a thing an individual does. It is something participants make together."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -66,26 +82,11 @@
         },
         {
           "text": "The Play of Animals",
-          "italic": true
+          "italic": true,
+          "link": "https://www.nature.com/articles/058410a0"
         },
         {
-          "text": " (Groos, 1898) proposed that play serves a developmental and evolutionary function rather than being mere frivolity. For much of the twentieth century, though, play was treated as a marginal topic, too hard to define and too easily anthropomorphized for serious study. That began to change in the 1960s and 70s, when field primatologists like Jane Goodall, observing wild chimpanzees at Gombe, documented play-panting, tickling, and social play in rich naturalistic detail (van Lawick-Goodall, 1971), suggesting deep continuities between animal and human behavior. Ethologists such as Marc Bekoff and John Byers later gave the field more rigorous theoretical footing, studying play across mammal species and proposing ideas like the “play bow” as a signal animals use to negotiate fair, cooperative play (Bekoff & Byers, 1998). Around the same time, affective neuroscientist Jaak Panksepp identified PLAY as one of several core emotional systems in the mammalian brain, grounding the behavior in neurobiology (1998). "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": " (Groos, 1898) proposed that play serves a developmental and evolutionary function rather than being mere frivolity. For much of the twentieth century, though, play was treated as a marginal topic, too hard to define and too easily anthropomorphized for serious study. That began to change in the 1960s and 70s, when field primatologists like Jane Goodall, observing wild chimpanzees at Gombe, documented play-panting, tickling, and social play in rich naturalistic detail, l suggesting deep continuities between animal and human behavior. "
         }
       ]
     },
@@ -102,50 +103,60 @@
       "children": [
         {
           "text": "The Genesis of Animal Play: Testing the Limits",
-          "italic": true
+          "italic": true,
+          "link": "https://direct.mit.edu/books/oa-monograph/4951/The-Genesis-of-Animal-PlayTesting-the-Limits"
         },
         {
-          "text": " (2005), was a set of five formal criteria meant to let researchers decide, rigorously, whether a given behavior counts as play rather than just being labeled that loosely. Roughly, the criteria are:"
+          "text": " (2005)",
+          "link": "https://direct.mit.edu/books/oa-monograph/4951/The-Genesis-of-Animal-PlayTesting-the-Limits"
+        },
+        {
+          "text": ", set a five formal criteria of play, meant to let researchers decide, rigorously, whether a given behavior counts as play rather than just being labeled that loosely:"
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "numbered-list",
       "children": [
         {
-          "text": "The behavior is not fully functional in the context in which it appears — it doesn’t contribute directly to survival in that moment (e.g., play-fighting isn’t real fighting)."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "list-item",
+          "children": [
+            {
+              "text": "The behavior is not fully functional in the context in which it appears — it doesn’t contribute directly to survival in that moment (e.g., play-fighting isn’t real fighting)."
+            }
+          ]
+        },
         {
-          "text": "It’s spontaneous, voluntary, intentional, pleasurable, or otherwise rewarding to the animal, rather than forced."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "list-item",
+          "children": [
+            {
+              "text": "It’s spontaneous, voluntary, intentional, pleasurable, or otherwise rewarding to the animal, rather than forced."
+            }
+          ]
+        },
         {
-          "text": "It’s structurally or temporally different from the “serious” version of the behavior — incomplete, exaggerated, awkward, or occurring earlier in life than the functional version would (precocious)."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "list-item",
+          "children": [
+            {
+              "text": "It’s structurally or temporally different from the “serious” version of the behavior — incomplete, exaggerated, awkward, or occurring earlier in life than the functional version would (precocious)."
+            }
+          ]
+        },
         {
-          "text": "It’s repeated, but not in a rigid, identical way each time — there’s variation."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "list-item",
+          "children": [
+            {
+              "text": "It’s repeated, but not in a rigid, identical way each time — there’s variation."
+            }
+          ]
+        },
         {
-          "text": "It happens when the animal is relaxed, healthy, well-fed, and not under stress — “surplus resource” conditions, not survival pressure."
+          "type": "list-item",
+          "children": [
+            {
+              "text": "It happens when the animal is relaxed, healthy, well-fed, and not under stress — “surplus resource” conditions, not survival pressure."
+            }
+          ]
         }
       ]
     },
@@ -263,7 +274,7 @@
   "created_at": "2026-10-02T16:42:26.714Z",
   "created_by": "fei-anthro",
   "title": "Multi-species Play: Sea lion interactions in La Ventana, Mexico",
-  "updated_at": "2026-11-06T21:46:14.148Z",
+  "updated_at": "2026-11-06T22:07:04.485Z",
   "updated_by": "fei-anthro",
   "autogenerate": {
     "enabled": false,
