@@ -125,6 +125,29 @@
       ]
     },
     {
+      "uuid": "970fd1c0-a972-47ff-810d-e3901aecbac8",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -198,14 +221,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Overall, play is widespread among mammals, but it does not look the same everywhere. A young animal may chase, tumble, or spar with a companion; another may manipulate an object or repeat a movement alone. Researchers study play in many species to ask what it makes possible: practice, learning, flexibility, social connection, or simply an enjoyable activity in the present. There may be no single answer that applies to every animal or every kind of play."
         }
       ]
@@ -219,19 +234,11 @@
       ]
     },
     {
-      "type": "heading-two",
-      "children": [
-        {
-          "text": "Play in the ocean",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
-          "text": "Marine mammals offer a compelling place to explore these questions. Dolphins and whales have been observed playing with objects, riding waves, chasing, and interacting with members of other species. Cetacean play has been grouped into locomotor, object, and social play, though the categories can overlap. Reports of dolphins interacting playfully with large whales raise questions about how we identify play when the participants are so different in size and behaviour—and when we can observe only part of what is happening."
+          "text": "Why do we talk about play: a pedagogy of love and interconnectedness",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -247,7 +254,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project begins with play as an open question: how do animals invite, answer, and reshape one another’s actions? By looking across species—and especially toward ocean mammals—we can ask a provocative question of what play makes possible between lives that are connected, yet never quite the same."
+          "text": "Research how do we invite, answer, and reshape one another’s actions in play? Yet what do we gain in treating play as an analytical category? Inspired by past researches on play, in both humans and animals, this projects brings a certain type of play beneath the surface into closer examination."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " we can ask a provocative question of what play makes possible between lives that are connected, yet never quite the same. "
         }
       ]
     },
@@ -308,7 +323,7 @@
   "created_at": "2026-10-02T16:42:26.714Z",
   "created_by": "fei-anthro",
   "title": "Multi-species Play: Sea lion interactions in La Ventana, Mexico",
-  "updated_at": "2026-11-06T23:34:01.687Z",
+  "updated_at": "2026-11-06T23:47:44.207Z",
   "updated_by": "fei-anthro",
   "autogenerate": {
     "enabled": false,
