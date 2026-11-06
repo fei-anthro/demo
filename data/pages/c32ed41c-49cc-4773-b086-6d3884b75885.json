@@ -62,7 +62,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Play is widespread among mammals, but it does not look the same everywhere. A young animal may chase, tumble, or spar with a companion; another may manipulate an object or repeat a movement alone. Researchers study play in many species to ask what it makes possible: practice, learning, flexibility, social connection, or simply an enjoyable activity in the present. There may be no single answer that applies to every animal or every kind of play."
+          "text": "The scientific study of animal play dates back over a century. Psychologist Karl Groos's book "
+        },
+        {
+          "text": "The Play of Animals",
+          "italic": true
+        },
+        {
+          "text": " (Groos, 1898) proposed that play serves a developmental and evolutionary function rather than being mere frivolity. For much of the twentieth century, though, play was treated as a marginal topic, too hard to define and too easily anthropomorphized for serious study. That began to change in the 1960s and 70s, when field primatologists like Jane Goodall, observing wild chimpanzees at Gombe, documented play-panting, tickling, and social play in rich naturalistic detail (van Lawick-Goodall, 1971), suggesting deep continuities between animal and human behavior. Ethologists such as Marc Bekoff and John Byers later gave the field more rigorous theoretical footing, studying play across mammal species and proposing ideas like the “play bow” as a signal animals use to negotiate fair, cooperative play (Bekoff & Byers, 1998). Around the same time, affective neuroscientist Jaak Panksepp identified PLAY as one of several core emotional systems in the mammalian brain, grounding the behavior in neurobiology (1998). "
         }
       ]
     },
@@ -70,7 +77,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "A multispecies perspective starts with a further question: what happens when play crosses a species boundary? How do different animals recognize and respond to one another? How do they manag1e differences in size, strength, or ways of sensing the world? These questions let us study play as a relationship unfolding between particular participants, rather than assuming that all participants understand it in the same way."
+          "text": ""
         }
       ]
     },
@@ -87,6 +94,74 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Genesis of Animal Play: Testing the Limits",
+          "italic": true
+        },
+        {
+          "text": " (2005), was a set of five formal criteria meant to let researchers decide, rigorously, whether a given behavior counts as play rather than just being labeled that loosely. Roughly, the criteria are:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The behavior is not fully functional in the context in which it appears — it doesn’t contribute directly to survival in that moment (e.g., play-fighting isn’t real fighting)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "It’s spontaneous, voluntary, intentional, pleasurable, or otherwise rewarding to the animal, rather than forced."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "It’s structurally or temporally different from the “serious” version of the behavior — incomplete, exaggerated, awkward, or occurring earlier in life than the functional version would (precocious)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "It’s repeated, but not in a rigid, identical way each time — there’s variation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "It happens when the animal is relaxed, healthy, well-fed, and not under stress — “surplus resource” conditions, not survival pressure."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Overall, play is widespread among mammals, but it does not look the same everywhere. A young animal may chase, tumble, or spar with a companion; another may manipulate an object or repeat a movement alone. Researchers study play in many species to ask what it makes possible: practice, learning, flexibility, social connection, or simply an enjoyable activity in the present. There may be no single answer that applies to every animal or every kind of play."
         }
       ]
     },
@@ -112,6 +187,14 @@
       "children": [
         {
           "text": "Marine mammals offer a compelling place to explore these questions. Dolphins and whales have been observed playing with objects, riding waves, chasing, and interacting with members of other species. Cetacean play has been grouped into locomotor, object, and social play, though the categories can overlap. Reports of dolphins interacting playfully with large whales raise questions about how we identify play when the participants are so different in size and behaviour—and when we can observe only part of what is happening."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -180,7 +263,7 @@
   "created_at": "2026-10-02T16:42:26.714Z",
   "created_by": "fei-anthro",
   "title": "Multi-species Play: Sea lion interactions in La Ventana, Mexico",
-  "updated_at": "2026-11-06T00:48:26.389Z",
+  "updated_at": "2026-11-06T21:46:14.148Z",
   "updated_by": "fei-anthro",
   "autogenerate": {
     "enabled": false,
