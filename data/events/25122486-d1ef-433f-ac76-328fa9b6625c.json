@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "d2ebeffb-75d9-4bb2-ae21-34b429ee0cbe": {
+      "label": "BBC documentary on play in animals",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=3S7Sb4Y7HmQ",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "BBC",
+  "label": "BBC documentary on play in animals",
+  "av_file_order": [
+    "d2ebeffb-75d9-4bb2-ae21-34b429ee0cbe"
+  ],
+  "created_at": "2026-11-06T23:47:33.430Z",
+  "created_by": "fei-anthro",
+  "updated_at": "2026-11-06T23:47:33.430Z",
+  "updated_by": "fei-anthro"
+}
