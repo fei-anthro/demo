@@ -237,7 +237,49 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Why do we talk about play: a pedagogy of love and interconnectedness",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "0a65986b-293d-4d8f-a1ab-337e4319b8e7",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 44,
+      "end": 615,
+      "file": "058df093-78d6-459d-a439-bd77ba3762b3",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Why do we talk about play?",
           "textSize": "heading-one"
         }
       ]
@@ -246,32 +288,57 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Research how do we invite, answer, and reshape one another’s actions in play? Yet what do we gain in treating play as an analytical category? Inspired by past researches on play, in both humans and animals, this projects brings a certain type of play beneath the surface into closer examination."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": " we can ask a provocative question of what play makes possible between lives that are connected, yet never quite the same. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "textSize": "heading-one",
-          "text": ""
+          "text": "A provocation of interconnectedness"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "It is only recently that we have come to see animals as creatures of sentience and feeling, kin to us in ways Descartes could not allow when he cast them as unfeeling machines, mere automata without inner life. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Against that long shadow, researchers have only in the last few decades begun to document play across the animal world, and expanding the framework of play to more species. For instance, play was long assumed absent in reptiles until Gordon Burghardt’s studies of a turtle batting a ball, and later of monitor lizards and crocodiles, challenged that."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Deciding who plays is an act of category-making, a drawing and redrawing of boundaries that says as much about our own assumptions as about the animals we study. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What, then, do we gain by treating play as an analytical category at all? Following Gregory Bateson’s sense of ecology as a web of relations rather than a collection of separate parts, this project holds that play offers a way of thinking planetary interconnectedness from the ground up: a form of contact that is neither purely functional nor purely frivolous, through which lives remain bound to one another without ever collapsing into sameness. Inspired by past research on play in both humans and animals, this project brings a particular, under-examined mode of play into closer view, asking, provocatively, what play makes possible between lives that are connected yet never quite the same. What happens if we think of the essence of sentience and consiousness as playfulness rather than critical reason and intelligence?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     },
@@ -323,7 +390,7 @@
   "created_at": "2026-10-02T16:42:26.714Z",
   "created_by": "fei-anthro",
   "title": "Multi-species Play: Sea lion interactions in La Ventana, Mexico",
-  "updated_at": "2026-11-06T23:47:44.207Z",
+  "updated_at": "2026-11-07T00:02:50.795Z",
   "updated_by": "fei-anthro",
   "autogenerate": {
     "enabled": false,
