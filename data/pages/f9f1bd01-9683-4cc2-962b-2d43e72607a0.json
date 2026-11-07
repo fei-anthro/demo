@@ -1,20 +1,35 @@
 {
   "content": [
     {
-      "type": "paragraph",
+      "type": "heading-two",
       "children": [
         {
-          "text": "What is play? What does play do for us?",
+          "text": "Play in the ocean",
           "textSize": "heading-one"
         }
-      ],
-      "align": "center"
+      ]
     },
     {
       "type": "paragraph",
       "children": [
         {
-          "text": "From childhood make-believe and theater to sports and market speculation, play takes many forms: it offers entertainment and leisure while giving people a way to explore the world and its possibilities through imagined or constructed settings."
+          "text": "Marine mammals offer a compelling place to explore these questions. Dolphins and whales have been observed playing with objects, riding waves, chasing, and interacting with members of other species. Cetacean play has been grouped into locomotor, object, and social play, though the categories can overlap. Reports of dolphins interacting playfully with large whales raise questions about how we identify play when the participants are so different in size and behaviour—and when we can observe only part of what is happening."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The CITA plan and John Lily\n\n"
         }
       ]
     }
@@ -28,6 +43,6 @@
   "slug": "what-is-play-what-does-play-do",
   "created_at": "2026-11-03T19:22:35.289Z",
   "created_by": "fei-anthro",
-  "updated_at": "2026-11-03T19:22:35.289Z",
+  "updated_at": "2026-11-07T00:05:30.479Z",
   "updated_by": "fei-anthro"
 }
