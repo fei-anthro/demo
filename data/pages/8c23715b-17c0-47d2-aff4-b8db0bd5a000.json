@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "The fieldsite: Sea lion colony in La Ventana, Mexico, Baja",
+  "parent": "c32ed41c-49cc-4773-b086-6d3884b75885",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "the-fieldsite-sea-lion-colony-in-la-ventana",
+  "created_at": "2026-11-07T00:12:09.021Z",
+  "created_by": "fei-anthro",
+  "updated_at": "2026-11-07T00:12:09.021Z",
+  "updated_by": "fei-anthro"
+}
