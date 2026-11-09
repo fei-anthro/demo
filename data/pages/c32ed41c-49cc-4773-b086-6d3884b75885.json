@@ -294,7 +294,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Why do we talk about play?",
+          "text": "Why should we talk about play?",
           "textSize": "heading-one"
         }
       ]
@@ -399,7 +399,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Deciding who plays is an act of category-making, a drawing and redrawing of boundaries that says as much about our own assumptions as about the animals we study. "
+          "text": "Deciding who plays is therefore an act of category-making: we draw and redraw boundaries, and those boundaries reveal something about our own assumptions as well as about the animals we study."
         }
       ]
     },
@@ -415,19 +415,61 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "We come to know the world, in part, by sorting experience: noticing similarities and differences, naming things, and placing them into categories. Franz Boas argued that language carries systems of classification that speakers often use without being conscious of them. Language does not simply dictate what we can think, but its familiar categories can shape what we notice and how we describe it. The categories through which we understand human distinctiveness have their own history. In main-stream strands of Western philosophical thought, people have been distinguished from other animals by appeals to reason, language, symbolic thought, mind, or soul. These ideas have shaped how humans describe other animals—and what kinds of behaviour we recognize as meaningful."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These distinctions are not the only way to understand human life in relation to other beings. For example, Rock Cree ethnography describes beavers as beings with their own social lives and perspectives (Brightman 1993). Among Siberian Yukaghir hunters, imitating elk or reindeer can involve taking on an animal’s movements, sounds, and point of view—a close encounter that carries the risk of losing sight of one’s human identity (Willerslev 2004). These are distinct, community-specific ways of understanding relations between humans and other beings."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " "
         }
       ]
     },
     {
       "type": "image",
-      "url": "https://autumn.ca/wp-content/uploads/2021/01/1-6-768x1024.png",
+      "url": "https://autumn.ca/wp-content/uploads/2021/01/1-6.png",
       "children": [
         {
           "text": ""
         }
       ],
       "scale": 50,
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Part of All my relations showcase by Autumn Whiteway, 2019, digital art. A bear eating berries evokes the relationships between Turtle Island’s creatures and the land that sustains them",
+          "textSize": "small"
+        }
+      ],
       "align": "center"
     },
     {
@@ -442,15 +484,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "What, then, do we gain by treating play as an analytical category at all? "
+          "text": "What, then, do we gain by treating play as an analytical category?"
         }
       ]
     },
@@ -466,7 +500,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Following Gregory Bateson’s sense of ecology as a web of relations rather than a collection of separate parts, this project holds that play offers a way of thinking planetary interconnectedness from the ground up: a form of contact that is neither purely functional nor purely frivolous, through which lives remain bound to one another without ever collapsing into sameness. Inspired by past research on play in both humans and animals, this project brings a particular, under-examined mode of play into closer view, asking, provocatively, what play makes possible between lives that are connected yet never quite the same. What happens if we think of the essence of sentience and consiousness as playfulness rather than critical reason and intelligence?"
+          "text": "Following Gregory Bateson’s invitation to look for “the pattern which connects,” this project approaches play as a way to attend to relationships among bodies, beings, and environments. Play may have practical effects—helping animals develop skills or negotiate social encounters—while also exceeding any single function. It can be a form of contact in which participants respond to one another without becoming the same. Inspired by research on play in humans and other animals, this project brings a comparatively under-examined mode of multispecies play into view. It asks what play makes possible between lives that are connected yet remain distinct."
         }
       ]
     },
@@ -474,7 +508,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
@@ -482,7 +516,30 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
+          "text": "What might change if we treated playfulness—not as the essence of sentience, or a replacement for reason, but as one important way living beings explore and respond to the world? Play does not make every creature alike. It invites us to consider what some creatures may share, and how they encounter a world that is not exclusively human."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -526,7 +583,7 @@
   "created_at": "2026-10-02T16:42:26.714Z",
   "created_by": "fei-anthro",
   "title": "Multi-species Play: Sea lion interactions in La Ventana, Mexico",
-  "updated_at": "2026-11-07T00:31:52.645Z",
+  "updated_at": "2026-11-09T00:31:06.166Z",
   "updated_by": "fei-anthro",
   "autogenerate": {
     "enabled": false,
