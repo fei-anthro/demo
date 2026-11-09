@@ -13,7 +13,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "As discussed in the previous page, how we categorize the world tells us as much about our own categorical systems as it does about the world itself. Among the species that share this planet with us, ocean mammals have been particularly associated with “playfulness.” Play, in this sense, is one of the many ways cetaceans especially come to be read as “more-like-us”, compared to other species. "
+          "text": "As discussed in the previous page, how we categorize the world tells us as much about our own categorical systems as it does about the world itself. Among the species that share this planet with us, ocean mammals have been particularly associated with “playfulness.” Play, in this sense, is one of the many ways "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "cetaceans especially come to be read as “more-like-us”, compared to other species. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -53,14 +69,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "The Many endeavours to know ocean mammals",
           "textSize": "heading-one"
         }
@@ -70,7 +78,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Humpback whale songs "
+          "text": "There is a deep history to search for beings like us beneath the water. Sailors told of mermaids and singing sirens, and whalers and naturalists wrote of mysterious creatures of the abyss that possess extraordinary capabilities. That impulse did not fade with modern science so much as find new instruments:"
         }
       ]
     },
@@ -86,7 +94,46 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "John lily"
+          "text": "Humpback whale songs ",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "It is only a slight exaggeration to say that  such endeavours of finding sentience in another species like us helped saved the whales. In 1967, Roger Payne and Scott McVay discovered that humpback whales produce long, structured, repeating songs. When Payne released recordings of them in 1970 as "
+        },
+        {
+          "text": "Songs of the Humpback Whale",
+          "italic": true
+        },
+        {
+          "text": ", the album became an unlikely bestseller, credited with helping launch the “Save the Whales” movement that fed into the global whaling moratorium. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "726541a4-f039-4d56-90a8-3b10ead3a676",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -102,7 +149,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "From SETI to CETI"
+          "text": "From SETI to CETI: John Lily, the \"Order of the Dolphin\", and using AI to understand animals"
         }
       ]
     },
@@ -111,6 +158,14 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "John Lilly pushed that intuition much further, and much more literally. Convinced from the 1950s onward that dolphin vocalizations amounted to a language, he pursued direct communication with them through isolation tanks, shared living quarters, and eventually LSD, administered to dolphins and to himself, hoping chemistry might close the gap between two kinds of mind. His influence outlasted the specifics of his method. When a small group of scientists convened at Green Bank in 1961 to found what became the search for extraterrestrial intelligence, they named themselves, half-jokingly, the “Order of the Dolphin” in his honor — reasoning that learning to listen to a mind as alien as a dolphin’s was good practice for learning to listen to one from another planet."
         }
       ]
     },
@@ -145,6 +200,6 @@
   "slug": "finding-play-in-the-ocean",
   "created_at": "2026-11-03T19:22:35.289Z",
   "created_by": "fei-anthro",
-  "updated_at": "2026-11-09T22:23:48.684Z",
+  "updated_at": "2026-11-09T22:39:16.649Z",
   "updated_by": "fei-anthro"
 }
