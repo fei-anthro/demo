@@ -123,6 +123,81 @@
       ]
     },
     {
+      "uuid": "e507bb66-cd0a-4e11-a2fc-d4e7ef56c183",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "From SETI to CETI: John Lily, the \"Order of the Dolphin\", and using AI to understand animals",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The interests in whale communication continues after Payne and McVay, with the development of more complex tools to discover d:iscreet patterns of recordings such as machine learning\n\nAmong the people who have been dedicated to see ocean mammals as \"more like us\", was John Lilly, an American neuroscientist and physician who had already made his name studying the brain. He pioneered the isolation tank as a tool for sensory-deprivation research, before turning his attention to dolphins in the late 1950s, founding the Communication Research Institute to study them in the U.S. Virgin Islands. Lilly pushed that intuition much further, and much more literally, than earlier whale-song enthusiasts had. Convinced from the 1950s onward that dolphin vocalizations amounted to a language, he pursued direct communication with them through isolation tanks, shared living quarters, and eventually LSD, administered to dolphins and to himself, hoping chemistry might close the gap between two kinds of mind. His influence outlasted the specifics of his method. When a small group of scientists convened at Green Bank in 1961 to found what became the search for extraterrestrial intelligence, they named themselves, half-jokingly, the “Order of the Dolphin” in his honor — reasoning that learning to listen to a mind as alien as a dolphin’s was good practice for learning to listen to one from another planet."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "That premise, that an alien mind might be decoded if we listened carefully and built the right tools, has outlived Lilly’s own career, which drifted toward the fringe of serious science. It resurfaces today in projects like Project CETI (the Cetacean Translation Initiative), which applies machine learning to the patterned clicks, or “codas,” of sperm whales, hoping to uncover something like grammar and eventually build an AI system that can respond in kind. The CETI, in mimicry, takes after the name of SETI (“Search for Extraterrestrial Intelligence”). Aside from Project CETI, Earth Species Project and similar initiatives are making the same bet across other species, from elephants to birds, training large language models on animal vocalizations much as they’re trained on human text using cryptography and neural networks. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true,
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
       "uuid": "726541a4-f039-4d56-90a8-3b10ead3a676",
       "includes": [
         "media",
@@ -149,40 +224,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "From SETI to CETI: John Lily, the \"Order of the Dolphin\", and using AI to understand animals"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "John Lilly pushed that intuition much further, and much more literally. Convinced from the 1950s onward that dolphin vocalizations amounted to a language, he pursued direct communication with them through isolation tanks, shared living quarters, and eventually LSD, administered to dolphins and to himself, hoping chemistry might close the gap between two kinds of mind. His influence outlasted the specifics of his method. When a small group of scientists convened at Green Bank in 1961 to found what became the search for extraterrestrial intelligence, they named themselves, half-jokingly, the “Order of the Dolphin” in his honor — reasoning that learning to listen to a mind as alien as a dolphin’s was good practice for learning to listen to one from another planet."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "textSize": "heading-one"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The ocean as a vital source of imagination ",
+          "text": "What does language and communication have to do with play?",
+          "bold": true,
           "textSize": "heading-one"
         },
         {
@@ -200,6 +243,6 @@
   "slug": "finding-play-in-the-ocean",
   "created_at": "2026-11-03T19:22:35.289Z",
   "created_by": "fei-anthro",
-  "updated_at": "2026-11-09T22:39:16.649Z",
+  "updated_at": "2026-11-09T22:49:39.176Z",
   "updated_by": "fei-anthro"
 }
