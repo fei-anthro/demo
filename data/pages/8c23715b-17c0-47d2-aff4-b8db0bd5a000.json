@@ -7,6 +7,50 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://www.freecountrymaps.com/map/free/mexico/location/1408800545-fs8.png",
+      "caption": "la ventana map",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 35,
+      "align": "right"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Ventana sits on the Sea of Cortez in Baja California Sur, Mexico. The Sea of Cortez is known to be one of the richest areas for ocean biodiversity. Whale sharks, sea lions, mobula rays, dolphins, and migrating whales all pass through these waters on a seasonal calendar of their own, and over the past two decades that calendar has become a tourism product. What was once a fishing economy has been steadily reorganized around encounter — swimming alongside a whale shark, snorkeling with sea lion colonies at Los Islotes, riding alongside dolphins on an “ocean safari.” This fieldsite sits at the center of what development economists call the blue economy: the effort to generate sustainable growth and local livelihoods from ocean resources without depleting them, a framework now attached, with varying success, to places like this one."
+        }
+      ]
     }
   ],
   "title": "The fieldsite: Sea lion colony in La Ventana, Mexico, Baja",
@@ -18,6 +62,6 @@
   "slug": "the-fieldsite-sea-lion-colony-in-la-ventana",
   "created_at": "2026-11-07T00:12:09.021Z",
   "created_by": "fei-anthro",
-  "updated_at": "2026-11-07T00:12:09.021Z",
+  "updated_at": "2026-11-09T22:57:54.012Z",
   "updated_by": "fei-anthro"
 }
