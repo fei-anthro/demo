@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-11-09T22:39:08.308Z",
+  "created_by": "fei-anthro",
+  "title": "Whale song",
+  "slug": "whale-song",
+  "updated_at": "2026-11-09T22:39:08.308Z",
+  "updated_by": "fei-anthro",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "e507bb66-cd0a-4e11-a2fc-d4e7ef56c183"
+  }
+}
