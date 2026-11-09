@@ -183,6 +183,45 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "1ddf78a4-ae70-44c3-9fc1-ddc9ab20b7a2",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "That premise, that an alien mind might be decoded if we listened carefully and built the right tools, has outlived Lilly’s own career, which drifted toward the fringe of serious science. It resurfaces today in projects like Project CETI (the Cetacean Translation Initiative), which applies machine learning to the patterned clicks, or “codas,” of sperm whales, hoping to uncover something like grammar and eventually build an AI system that can respond in kind. The CETI, in mimicry, takes after the name of SETI (“Search for Extraterrestrial Intelligence”). Aside from Project CETI, Earth Species Project and similar initiatives are making the same bet across other species, from elephants to birds, training large language models on animal vocalizations much as they’re trained on human text using cryptography and neural networks. "
         }
       ]
@@ -227,9 +266,14 @@
           "text": "What does language and communication have to do with play?",
           "bold": true,
           "textSize": "heading-one"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\n\n"
+          "text": "language has been seen as the essence of human capabilities compared to animals (soul, plato, descartes), this has been reflected in ceti and seti. This is not to say learning about communication in animals is not great work (execpt for john lily's unethical research of course), good things are done through this kind of effort. But more common ground can be drawn between us and other beings using other framework..\n\n"
         }
       ]
     }
@@ -243,6 +287,6 @@
   "slug": "finding-play-in-the-ocean",
   "created_at": "2026-11-03T19:22:35.289Z",
   "created_by": "fei-anthro",
-  "updated_at": "2026-11-09T22:49:39.176Z",
+  "updated_at": "2026-11-09T22:53:20.901Z",
   "updated_by": "fei-anthro"
 }
